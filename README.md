@@ -1,4 +1,5 @@
 # Chleb żytni na zakwasie
 
-[Przepis](./przepie.md)
+[Przepis](./przepis.md)
+
 [Procedura dokarmiania](./dokarmianie_zakwasu.md)
