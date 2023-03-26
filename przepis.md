@@ -15,7 +15,7 @@ Jest szansa, że uda się i Tobie. Zachęcam do eksperymentów.
 2. Przygotuj wodę o temperaturze 33 st. C i dodaj do ciasta
 3. Dodaj zakwas, rozmieszaj z wodą. 
 4. Zmieszaj krótko wszystkie składniki, aż do połączenia
-5. Mieszaj ciasto w mikserze planetarnym (lub normalnym, z końcówkami do ciasta) przez 7 minut na średnich obrotach
+5. Mieszaj ciasto w mikserze planetarnym (lub normalnym, z końcówkami do ciasta) przez 7 minut na średnich obrotach. Ciasto będzie miało ciężką konsystencję gliny.
 6. Zgarnij ciasto ze ścianek w jedno miejsca, przykryj folią spożywczą, odstaw na 40 minut.
 7. Przygotuj formę - idealna będzie keksówka o wymiarach 25x10cm. NIE większa.
 8. Formę wysmaruj olejem i oprósz mąką
@@ -28,4 +28,3 @@ Jest szansa, że uda się i Tobie. Zachęcam do eksperymentów.
 
 Gratulacje!
 
-![Chleb na zakwasie](#)
