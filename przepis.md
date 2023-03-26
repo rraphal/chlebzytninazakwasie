@@ -7,13 +7,13 @@ Jest szansa, że uda się i Tobie. Zachęcam do eksperymentów.
 - 332g mąki żytniej chlebowej, typ 720
 - 10g soli
 - 276g wody
-- 153g aktywnego zakwasu (przepis osobno)
+- 153g aktywnego zakwasu ([procedura dokarmiania](./dokarmianie_zakwasu.md))
 
 ## Instrukcja
 
 1. Do miski wsyp mąkę, sól
 2. Przygotuj wodę o temperaturze 33 st. C i dodaj do ciasta
-3. Dodaj zakwas, rozmieszaj z wodą
+3. Dodaj zakwas, rozmieszaj z wodą. 
 4. Zmieszaj krótko wszystkie składniki, aż do połączenia
 5. Mieszaj ciasto w mikserze planetarnym (lub normalnym, z końcówkami do ciasta) przez 7 minut na średnich obrotach
 6. Zgarnij ciasto ze ścianek w jedno miejsca, przykryj folią spożywczą, odstaw na 40 minut.
